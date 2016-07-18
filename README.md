@@ -1,4 +1,6 @@
 # XML-Parsing
 XML parser for Stack Exchange data
 
-Open the python notebook for code 
+-API request,
+-Transformation into json format,
+-Parsing using ElementTree
